@@ -1,3 +1,5 @@
+   This is in the spirit of Open Soure, do not use this for plagarism.
+   
    Dialogc Lex/Yacc External Parser
    Course : CIS 2750 
    Prof. David McCaughan
@@ -12,7 +14,9 @@
 Purpose : To use system tools to available for parsing and generation of the java code. 
           A more efficient and easier way to use a high level parser Lex/Yacc. 
           It provides the same functionality as the Parameter Manager, however, 
-          Lex/Yacc executable called yadc can be used externally without the dependancy of Dialogc GUI. 
+          Lex/Yacc executable called yadc can be used externally without the dependancy of Dialogc GUI.
+          This script is meant to be used an run on a linux/unix system. If wanting to run it on MacOS, Please use 
+          the assignment folder. In the Assignment folder, the provided makefile will work for MacOS.
 
 
 
