@@ -1,5 +1,7 @@
    This is in the spirit of Open Soure, do not use this for plagarism.
-   
+   For Assignment, simply download all the files in a folder and run make in terminal.
+  ---------------------------------------
+   Final Project
    Dialogc Lex/Yacc External Parser
    Course : CIS 2750 
    Prof. David McCaughan
